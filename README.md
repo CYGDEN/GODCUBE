@@ -1,1 +1,1 @@
-<img width="1920" height="1080" alt="t" src="https://github.com/user-attachments/assets/fbdb5a4b-b00f-4189-905f-694edb347f7b" />
+<img width="1920" height="1080" alt="t" src="https://github.com/user-attachments/assets/fbdb5a4b-b00f-4189-905f-694edb347f7b" />[![](https://img.shields.io/badge/-RELEASES-black?style=for-the-badge&logo=)](HTTPS://GITHUB.COM/CYGDEN/GODCUBE/releases)
